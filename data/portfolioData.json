@@ -1,0 +1,283 @@
+[
+  {
+    "stocks": [
+      {
+        "symbol": "YTERY",
+        "name": "YREA Inc.",
+        "quantity": 50,
+        "purchasePrice": 150.0,
+        "currentPrice": 160.0,
+        "marketValue": 18000.0,
+        "profitLoss": 500.0
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "quantity": 50,
+        "purchasePrice": 150.0,
+        "currentPrice": 160.0,
+        "marketValue": 58000.0,
+        "profitLoss": 500.0
+      },
+      {
+        "symbol": "QSDQ",
+        "name": "QASDF Inc.",
+        "quantity": 50,
+        "purchasePrice": 150.0,
+        "currentPrice": 160.0,
+        "marketValue": 28000.0,
+        "profitLoss": 500.0
+      },
+      {
+        "symbol": "AAPL",
+        "name": "UIOUI Inc.",
+        "quantity": 50,
+        "purchasePrice": 150.0,
+        "currentPrice": 160.0,
+        "marketValue": 82000.0,
+        "profitLoss": 500.0
+      }
+    ],
+    "bonds": [
+      {
+        "name": "Sample Bond 1",
+        "quantity": 5,
+        "faceValue": 1000.0,
+        "purchasePrice": 980.0,
+        "currentPrice": 990.0,
+        "marketValue": 14950.0,
+        "profitLoss": 50.0
+      },
+      {
+        "name": "Sample Bond 2",
+        "quantity": 5,
+        "faceValue": 1000.0,
+        "purchasePrice": 980.0,
+        "currentPrice": 990.0,
+        "marketValue": 8950.0,
+        "profitLoss": 50.0
+      },
+      {
+        "name": "Sample Bond 3",
+        "quantity": 5,
+        "faceValue": 1000.0,
+        "purchasePrice": 980.0,
+        "currentPrice": 990.0,
+        "marketValue": 4950.0,
+        "profitLoss": 50.0
+      },
+      {
+        "name": "Sample Bond 4",
+        "quantity": 5,
+        "faceValue": 1000.0,
+        "purchasePrice": 980.0,
+        "currentPrice": 990.0,
+        "marketValue": 450.0,
+        "profitLoss": 50.0
+      }
+    ],
+    "dividend_income": {
+      "annualDividend_yield": 2.0,
+      "annualDividend_income": 160.0
+    },
+    "name": "Port 1",
+    "totalPortfolioValue": 13110.0,
+    "returnRate": 10,
+    "riskRate": 5,
+    "std": 20
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "MSFT",
+        "name": "CXACXA Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 2400.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 5500.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "MNBVMFBM Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 8400.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "WERSFA Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 7700.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "KJYKYJ Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 1200.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "ZXCASC Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 2400.0,
+        "profitLoss": 400.0
+      },
+      {
+        "symbol": "MSFT",
+        "name": "HTRHER Corporation",
+        "quantity": 40,
+        "purchasePrice": 200.0,
+        "currentPrice": 210.0,
+        "marketValue": 3400.0,
+        "profitLoss": 400.0
+      }
+    ],
+    "bonds": [
+      {
+        "name": "DSADQS Bond",
+        "quantity": 7,
+        "faceValue": 1000.0,
+        "purchasePrice": 970.0,
+        "currentPrice": 980.0,
+        "marketValue": 6860.0,
+        "profitLoss": 70.0
+      },
+      {
+        "name": "EWQEFF Bond",
+        "quantity": 7,
+        "faceValue": 1000.0,
+        "purchasePrice": 970.0,
+        "currentPrice": 980.0,
+        "marketValue": 6860.0,
+        "profitLoss": 70.0
+      },
+      {
+        "name": "GSAGAG Bond",
+        "quantity": 7,
+        "faceValue": 1000.0,
+        "purchasePrice": 970.0,
+        "currentPrice": 980.0,
+        "marketValue": 6860.0,
+        "profitLoss": 70.0
+      },
+      {
+        "name": "LJKHLYU Bond",
+        "quantity": 7,
+        "faceValue": 1000.0,
+        "purchasePrice": 970.0,
+        "currentPrice": 980.0,
+        "marketValue": 6860.0,
+        "profitLoss": 70.0
+      },
+      {
+        "name": "YTGGF Bond",
+        "quantity": 7,
+        "faceValue": 1000.0,
+        "purchasePrice": 970.0,
+        "currentPrice": 980.0,
+        "marketValue": 6860.0,
+        "profitLoss": 70.0
+      }
+    ],
+    "dividend_income": {
+      "annualDividend_yield": 1.8,
+      "annualDividend_income": 151.2
+    },
+
+    "name": "Port 2",
+    "totalPortfolioValue": 15341.2,
+    "returnRate": 20,
+    "riskRate": 5,
+    "std": 10
+  },
+  {
+    "stocks": [
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "quantity": 30,
+        "purchasePrice": 2500.0,
+        "currentPrice": 2600.0,
+        "marketValue": 68000.0,
+        "profitLoss": 3000.0
+      },
+      {
+        "symbol": "FGHJFG",
+        "name": "VASVA Inc.",
+        "quantity": 30,
+        "purchasePrice": 2500.0,
+        "currentPrice": 2600.0,
+        "marketValue": 78000.0,
+        "profitLoss": 3000.0
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "JKTYJKT Inc.",
+        "quantity": 30,
+        "purchasePrice": 2500.0,
+        "currentPrice": 2600.0,
+        "marketValue": 8000.0,
+        "profitLoss": 3000.0
+      }
+    ],
+    "bonds": [
+      {
+        "name": "CASC Bond",
+        "quantity": 8,
+        "faceValue": 1000.0,
+        "purchasePrice": 960.0,
+        "currentPrice": 970.0,
+        "marketValue": 17760.0,
+        "profitLoss": 80.0
+      },
+      {
+        "name": "VXZVAQW Bond",
+        "quantity": 8,
+        "faceValue": 1000.0,
+        "purchasePrice": 960.0,
+        "currentPrice": 970.0,
+        "marketValue": 760.0,
+        "profitLoss": 80.0
+      },
+      {
+        "name": "JTYJT Bond",
+        "quantity": 8,
+        "faceValue": 1000.0,
+        "purchasePrice": 960.0,
+        "currentPrice": 970.0,
+        "marketValue": 29760.0,
+        "profitLoss": 80.0
+      }
+    ],
+    "dividend_income": {
+      "annualDividend_yield": 1.5,
+      "annualDividend_income": 1170.0
+    },
+
+    "name": "Port 3",
+    "totalPortfolioValue": 86730.0,
+    "returnRate": 23,
+    "riskRate": 5,
+    "std": 8
+  }
+]
